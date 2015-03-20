@@ -1,5 +1,5 @@
 #include "widget.h"
-#include <dos.h>
+//#include <dos.h> // гэта не кросплатформенна
 #include <QtWidgets>
 
 Widget::Widget(QWidget *parent)
