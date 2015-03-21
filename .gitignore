@@ -1,2 +1,7 @@
-build*
+
+*build*/
 *.user
+*[Dd]ebug*/
+*[Rr]elease*/
+*.exe
+*.obj
